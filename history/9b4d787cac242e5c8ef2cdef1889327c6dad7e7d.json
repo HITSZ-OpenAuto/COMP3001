@@ -1,0 +1,232 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814686,
+    "hash": "db8d065303f9810608f35cbcfea88f705a58f2ba"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754198060,
+    "hash": "f2195fc5d530f02262887610f7af2c876be54fb1"
+  },
+  "README.md": {
+    "size": 5015,
+    "time": 1791961500,
+    "hash": "9b4d787cac242e5c8ef2cdef1889327c6dad7e7d"
+  },
+  "assignments/.DS_Store": {
+    "size": 6148,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754198060,
+    "hash": "f2195fc5d530f02262887610f7af2c876be54fb1"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/README.md": {
+    "size": 714,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/answer/第一次作业答案.docx": {
+    "size": 338389,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/answer/第三次作业答案.docx": {
+    "size": 176624,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/answer/第二次作业答案.docx": {
+    "size": 389172,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/answer/第四次作业 -答案.docx": {
+    "size": 17735,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/第一次作业.docx": {
+    "size": 415563,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/第三次作业.pdf": {
+    "size": 280538,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/第二次作业.docx": {
+    "size": 380692,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "assignments/2026_Quizot&KW_OS_assignments/第四次作业.pdf": {
+    "size": 193444,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754198060,
+    "hash": "f2195fc5d530f02262887610f7af2c876be54fb1"
+  },
+  "exams/2018秋操作系统期末试题回忆版_WuuTang.pdf": {
+    "size": 2861472,
+    "time": 1757411841,
+    "hash": "5d9a2f9023deb5ef0f59c39160bb687cbd992b42"
+  },
+  "exams/2024年秋操作系统期末考试试题（回忆版）.pdf": {
+    "size": 288879,
+    "time": 1780122910,
+    "hash": "26f7532cae1cf575ec32e53c7de41d1df62a6e5d"
+  },
+  "exams/2025年秋操作系统期末试题（回忆版）.pdf": {
+    "size": 627052,
+    "time": 1780122910,
+    "hash": "26f7532cae1cf575ec32e53c7de41d1df62a6e5d"
+  },
+  "exams/2026春操作系统期末试题（回忆版）.pdf": {
+    "size": 498235,
+    "time": 1781832688,
+    "hash": "83dc0b9997def95074c969d753673a42b0bfb557"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754198060,
+    "hash": "f2195fc5d530f02262887610f7af2c876be54fb1"
+  },
+  "labs/2026春操作系统Lab验收问题.md": {
+    "size": 1404,
+    "time": 1781832688,
+    "hash": "83dc0b9997def95074c969d753673a42b0bfb557"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754198060,
+    "hash": "f2195fc5d530f02262887610f7af2c876be54fb1"
+  },
+  "notes/2021_ailanxier/README.md": {
+    "size": 1535,
+    "time": 1755962396,
+    "hash": "8ef1a67a6a70f400f60838a44885b52f5a75a4be"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/01-导论-章节测试.html": {
+    "size": 50842,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/02-进程与线程-章节测试.html": {
+    "size": 49379,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/03-并发与同步-章节测试.html": {
+    "size": 51010,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/04-死锁-章节测试.html": {
+    "size": 51096,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/05-CPU调度-章节测试.html": {
+    "size": 56114,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/06-内存管理-章节测试.html": {
+    "size": 49933,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/07-虚拟内存-章节测试.html": {
+    "size": 53750,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/08-IO与存储-章节测试.html": {
+    "size": 52703,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Chapter Test/09-文件系统-章节测试.html": {
+    "size": 50305,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/01-导论-知识清单.html": {
+    "size": 17280,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/02-进程与线程-知识清单.html": {
+    "size": 23696,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/03-并发与同步-知识清单.html": {
+    "size": 22561,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/04-死锁-知识清单.html": {
+    "size": 16390,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/05-CPU调度-知识清单.html": {
+    "size": 22642,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/06-内存管理-知识清单.html": {
+    "size": 18524,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/07-虚拟内存-知识清单.html": {
+    "size": 20861,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/08-IO与存储-知识清单.html": {
+    "size": 19449,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/Knowledge List/09-文件系统-知识清单.html": {
+    "size": 21780,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/README.md": {
+    "size": 1103,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/index.html": {
+    "size": 6947,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "notes/2026_Quizot&KW_OS_notes/操作系统复习速查表.html": {
+    "size": 149597,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "readme.toml": {
+    "size": 4926,
+    "time": 1786823728,
+    "hash": "3fa9eb0a93df5db0b3352c08f0c633b9f6cbd613"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754198060,
+    "hash": "f2195fc5d530f02262887610f7af2c876be54fb1"
+  }
+}
